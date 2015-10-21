@@ -88,7 +88,7 @@ This file output contains the following columns (taken from those above):
 1. TestSubject                 
 2. ActivityType
 
-The following are aggregated mean calculated fields performed by the run_analysis.R code. One measure per TestSubject~ActivityType combination. 
+The following are aggregated mean calculated fields performed by the run_analysis.R code. One measure of each variable per TestSubject~ActivityType observation. 
                 
 3. tBodyAcc-mean()-X          
 4. tBodyAcc-mean()-Y
