@@ -16,10 +16,10 @@ This repo contains information related to the John Hopkins University Project on
 
 ##File Overview
 
-1. run_analysis.R - R file used to run code to download data to working directory, unzip and perform data cleaning. 
-2. CodeBook.md - Markdown file that describes variables in the data set. 
-3. tidydata.txt - Output file of tidy data from running R code.
-4. README.md - Current file for providing project overview, file list and information. 
+1. **run_analysis.R** - R file used to run code to download data to working directory, unzip and perform data cleaning. 
+2. **CodeBook.md** - Markdown file that describes variables in the data set. 
+3. **tidydata.txt** - Output file of tidy data from running R code.
+4. **README.md** - Current file for providing project overview, file list and information. 
 
 ##Instructions
 
