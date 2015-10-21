@@ -1,3 +1,4 @@
+
 #**Getting and Cleaning Data Course Project**
 
 ##Information
@@ -30,3 +31,4 @@
 ###   current working directory called tidydata.txt. The code is flexible. 
 ###5. tidydata.txt is included here for reference only. Each time the R code is ran, the output will be tidydata.txt.
   
+
